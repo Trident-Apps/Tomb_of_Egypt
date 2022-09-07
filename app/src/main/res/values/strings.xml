@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tomb of Egypt</string>
+
+    <string name="facebook_app_id">641289537574724</string>
+    <string name="facebook_client_token">a173f69147a3a6b28bb1d219a8536d38</string>
+
+    <string name="start_game_text">Press to start a game</string>
+    <string name="start_btn">Start</string>
+    <string name="roll_btn">Roll</string>
+    <string name="your_score">Your Score: 0</string>
+    <string name="enemy_score">Enemy\'s Score: 0</string>
+</resources>
